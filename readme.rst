@@ -1,3 +1,12 @@
+This application is a basic agro-commodity trading platform. It allows users to post commodities
+indicating its price, species, quantity, location ect. It also allows users to buy commodities and
+message/enquire(still in development) the owner of the commodity.
+You can run this locally with XAMPP server. clone this repo to you computer, copy it to htdocs folder in XAMPP.
+Import the database.sql and message.sql to your database. Create a database and a database-users. Edith your config file to match your database password, username, host(usually localhost)  and database name. Bootup your server and point your browser to agbada(or any name you gave the clone repo). Bamm! you are good to go.
+Your contributions are highly welcomed.
+
+
+
 ###################
 What is CodeIgniter
 ###################
