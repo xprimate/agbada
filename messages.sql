@@ -58,7 +58,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `email`, `avatar`, `signup_date`) VALUES
-(1, 'jude', 'welcome', 'ogbonnajay@gmail.com', 'Here we go', '2018-02-13 23:01:00'),
+(1, 'jude', 'welcome', 'jay@gmail.com', 'Here we go', '2018-02-13 23:01:00'),
 (2, 'james', 'welcome', 'james@gmail.com', 'Lets do this', '2018-02-13 23:00:00');
 
 --
